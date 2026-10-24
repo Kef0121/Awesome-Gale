@@ -5,11 +5,8 @@ This guide will assist you in disabling the bulls#!t Xiaomi puts on your phone.
 ## Table of Contents
 
 - [First Steps](#first-steps)
-
 - [Setting Up](#setting-up)
-
 - [Using Canta](#using-canta)
-
 - [Using Universal Android Debloater Next Generation](#using-universal-android-debloater-next-generation)
 
 > [!TIP]
@@ -69,7 +66,7 @@ Shizuku has 3 different starting methods:
 
 Install [Canta](https://samolego.github.io/Canta/), start Shizuku, authorize Canta in Shizuku, and you're ready to go.
 
-### Setting up UADNG
+### Setting up Universal Android Debloater Next Generation
 
 Setting it up is as simple as downloading [Universal Android Debloater Next Generation](https://github.com/Universal-Debloater-Alliance/universal-android-debloater-next-generation), and making sure you have ADB on your PC, and USB Debugging on your phone.
 
