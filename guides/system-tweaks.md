@@ -1,6 +1,6 @@
 # System Tweaks & Fixes
 
-<!-- Add a brief introduction here. -->
+Getting the most of your phone, even if Xiaomi doesn't want you to.
 
 ## Table of Contents
 
